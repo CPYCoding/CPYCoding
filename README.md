@@ -1,4 +1,4 @@
-## Hi👋, I am Kenneth (陳柏賢)
+## Hi👋, I am Kenneth
 
 <!--
 **PakyinCoding/PakyinCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
